@@ -3,7 +3,7 @@
 - estudando programação
 - aluno one, oracle next education
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   
   [![emanoel's github stats](https://github-readme-stats.vercel.app/api?username=emanoelcampos&hide=&show_icons=true&theme=dark)](https://github.com/emanoelcampos) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![emanoel top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelcampos&layout=compact&theme=dark)](https://github.com/emanoelcampos)
