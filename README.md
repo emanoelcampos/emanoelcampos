@@ -31,4 +31,4 @@
 <p align="center"><em>embrace yourself :):</em></p> 
   
 <div id="book"></div>
-<script src="books-js"></script>
+<script src="books.js"></script>
