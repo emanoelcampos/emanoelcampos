@@ -25,8 +25,10 @@
 
 ##
 <br>
+  
 <p align="center">
   <img height="249" width="350" src="https://user-images.githubusercontent.com/68448029/188282384-5fa551b7-a670-4600-b8b7-ab72dba05dff.gif" />
 </p>
+  
 <p align="center"><em>embrace yourself :):</em></p> 
   
