@@ -1,7 +1,5 @@
 ## oi 👋, eu sou o emanoel :)
 - aprendendo
-- estudando programação
-- aluno one, oracle next education
 
 <br>
 
