@@ -1,5 +1,6 @@
 ## oi 👋, eu sou o emanoel :)
 - aprendendo
+- acompanhe minha jornada no [programa one](https://emanoelcampos.github.io/programa-one-oracle/)
 
 <br>
 
