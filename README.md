@@ -1,6 +1,10 @@
 ## oi 👋, eu sou o emanoel :)
 - aprendendo
-- acompanhe minha jornada no [programa one](https://emanoelcampos.github.io/programa-one-oracle/)
+- estou participando do programa one, acompanhe minha jornada:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoelcampos&repo=programa-one-oracle&show_owner=true&theme=dark)](https://emanoelcampos.github.io/programa-one-oracle)
+
+____
 
 <br>
 
