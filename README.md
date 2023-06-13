@@ -1,5 +1,4 @@
 ## oi 👋, eu sou o emanoel :)
-- aprendendo java
 - estou participando do programa one, acompanhe minha jornada:
 
 <br>
