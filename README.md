@@ -18,13 +18,3 @@
   <img align="center" alt="emanoel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
-  
-  ____
-    
-<div align="center">
-  
-  #### estou participando do programa one, acompanhe minha jornada:
-  
-  <a href="https://emanoelcampos.github.io/programa-one-oracle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emanoelcampos&repo=programa-one-oracle&show_owner=true&theme=dark"/>
-</div><br>
