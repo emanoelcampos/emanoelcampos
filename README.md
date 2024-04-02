@@ -1,4 +1,4 @@
-## oi, eu sou o emanoel :) 👋
+## hi there! i'm emanoel :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br>
 
