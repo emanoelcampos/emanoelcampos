@@ -12,12 +12,8 @@ I am a technology and programming student with a interest in RPA, Python and Dat
 - I'm diving deep into Python programming language, exploring its vast ecosystem and using it for various applications.
 - [Python Developer, DataCamp](https://github.com/emanoelcampos/python)
 
-
-## how to get in touch:
-- If you're interested in collaborating, discussing projects, or just having a chat, feel free to reach out to me via [email](emanoel.cv@gmail.com) or [LinkedIn](https://www.linkedin.com/in/emanoelcampos).
-
-Feel free to explore my repositories and follow along with my progress! 🙃
-
+<br>
+<br>
 <br>
 
 <div align="center">
