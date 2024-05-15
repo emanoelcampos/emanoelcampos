@@ -6,7 +6,7 @@ I am a technology and programming student with a interest in RPA, Python and Dat
 
 ### 1. robotic process automation (RPA)
 - I'm delving into Robotic Process Automation (RPA) techniques, automating repetitive tasks and streamlining processes using UiPath.
-- [Automation Developer Associate Training, UiPath Academy](https://github.com/emanoelcampos/automation-developer)
+- [Automation Developer Associate Training, UiPath Academy](https://github.com/emanoelcampos/automation-developer-uipath)
 
 ### 2. python
 - I'm diving deep into Python programming language, exploring its vast ecosystem and using it for various applications.
