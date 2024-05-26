@@ -8,7 +8,7 @@ Systems Analysis and Development student focused on becoming an RPA Developer wi
 - robotic process automation
 - uipath
 - power automate
-- business automation analysis
+- automation business analysis
 
 ### Check out more [here](https://emanoel.dev/portfolio)
 
