@@ -4,13 +4,13 @@ Systems Analysis and Development student focused on becoming an RPA Developer wi
 
 ## what i'm currently studying:
 
-- python
-- robotic process automation
-- uipath
-- power automate
-- automation business analysis
+### robotic process automation
 
-### Check out more [here](https://emanoel.dev/portfolio)
+- [python](https://github.com/emanoelcampos/python)
+- [uipath](https://github.com/emanoelcampos/automation-developer-uipath)
+- [power automate](https://github.com/emanoelcampos/power-automate-desktop)
+- [automation business analysis](https://github.com/emanoelcampos/automation-business-analyst)
+
 
 <br>
 <br>
