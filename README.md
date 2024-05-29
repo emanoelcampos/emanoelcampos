@@ -1,15 +1,22 @@
-# hi there! i'm emanoel :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# hi there! i'm emanoel :): <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Systems Analysis and Development student focused on becoming an RPA Developer with a strong emphasis on process automation and analysis.
+i am a Systems Analysis and Development student focused on becoming an RPA Developer with a strong emphasis on process automation and analysis
 
 ## what i'm currently studying:
 
 ### robotic process automation
 
-- [python](https://github.com/emanoelcampos/python)
-- [uipath](https://github.com/emanoelcampos/automation-developer-uipath)
-- [power automate](https://github.com/emanoelcampos/power-automate-desktop)
-- [automation business analysis](https://github.com/emanoelcampos/automation-business-analyst)
+📌 **Python**  
+  Exploring Python for automation. [Check out my projects](https://github.com/emanoelcampos/python)
+  
+📌 **UiPath**  
+  Learning and developing solutions with UiPath. [Check out my projects](https://github.com/emanoelcampos/automation-developer-uipath)
+
+📌 **Power Automate**  
+  Using Power Automate to streamline workflows. [Check out my projects](https://github.com/emanoelcampos/power-automate-desktop)
+
+📌 **Automation Business Analysis**  
+  Focusing on business analysis for automation. [Check out my projects](https://github.com/emanoelcampos/automation-business-analyst)
 
 
 <br>
