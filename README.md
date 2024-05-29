@@ -6,16 +6,16 @@ i am a Systems Analysis and Development student focused on becoming an RPA Devel
 
 ### robotic process automation
 
-📌 **Python**  
+- 📌 **Python**  
   Exploring Python for automation. [Check out my projects](https://github.com/emanoelcampos/python)
   
-📌 **UiPath**  
+- 📌 **UiPath**  
   Learning and developing solutions with UiPath. [Check out my projects](https://github.com/emanoelcampos/automation-developer-uipath)
 
-📌 **Power Automate**  
+- 📌 **Power Automate**  
   Using Power Automate to streamline workflows. [Check out my projects](https://github.com/emanoelcampos/power-automate-desktop)
 
-📌 **Automation Business Analysis**  
+- 📌 **Automation Business Analysis**  
   Focusing on business analysis for automation. [Check out my projects](https://github.com/emanoelcampos/automation-business-analyst)
 
 
